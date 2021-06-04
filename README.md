@@ -5,7 +5,7 @@
 
 **OBJETIVO**
 
-**-Prever intenção de compra de usuários de comércio eletrônico.**
+**-Prever intenção de compra de usuários de comércio eletrônico usando Support Vector Machine.**
 
 
 **Dataset:** https://archive.ics.uci.edu/ml/datasets/Online+Shoppers+Purchasing+Intention+Dataset
